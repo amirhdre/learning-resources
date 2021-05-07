@@ -1,6 +1,6 @@
 # Learning Resources
 
-Here I list learning resources for various topics that I am learning.
+Here I introduce several learning resources for various engineering subjects that I am using.
 
 # Linear Control
 * [Designing pid controllers in linear control with problem solving approach](https://faradars.org/courses/fvee96073r-designing-pid-controllers-in-linear-control-with-problem-solving-approach)

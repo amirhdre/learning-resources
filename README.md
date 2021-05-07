@@ -1,6 +1,7 @@
 # Learning Resources
 
 Here I introduce several learning resources for various subjects that I am using.
+
 Subjects include **_Electrical egnineering, Neuroscience, Computer science, and Biomedical engineering_**.
 
 # Linear Control
